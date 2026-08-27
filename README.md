@@ -5,19 +5,17 @@ e PHP** — Centro Universitário Newton Paiva, 2026/2.
 
 ## Tema do projeto
 
-Site de uma escola de idiomas de bairro: apresentação, cursos oferecidos com
-valores e um formulário de contato. Um parágrafo basta — diga o que o site é e
-para quem ele serve.
+Site do "Supermercado Bom Preço" – vitrine digital com catálogo semanal de ofertas e valores, ferramenta para montar lista de compras com cálculo de total, e formulário para pedidos de delivery e contato, atendendo qualquer pessoa que busque praticidade e economia.
 
 ## Equipe
 
-**Líder:** Daniela Prado Vieira
+**Líder:** João Vítor Vieira Nonato
 
 | Nome completo | Matrícula | GitHub | Papel |
 |---|---|---|---|
 | Bernardo Augusto Gontijo | 202602814544 | @bernardoaugustog-gif | integrante |
 | Juliano Morais Santos Murta | 202602147068 | @Juliano31545 | integrante |
-| Daniela Prado Vieira | 2026xxxxx | @dani-prado | **líder** |
+| João Vítor Vieira Nonato | 202601783629 | @joaovitorvieiranonatto2-ship-it  | **líder** |
 | Felipe Antunes Costa | 2026xxxxx | @felipeac | integrante |
 | Marina Souza Lima | 2026xxxxx | @marinaslima | integrante |
 
