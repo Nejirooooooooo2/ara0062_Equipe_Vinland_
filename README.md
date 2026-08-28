@@ -16,7 +16,7 @@ Site do "Supermercado Bom Preço" – vitrine digital com catálogo semanal de o
 | Bernardo Augusto Gontijo | 202602814544 | @bernardoaugustog-gif | integrante |
 | Juliano Morais Santos Murta | 202602147068 | @Juliano31545 | integrante |
 | João Vítor Vieira Nonato | 202601783629 | @joaovitorvieiranonatto2-ship-it  | **líder** |
-| Felipe Antunes Costa | 2026xxxxx | @felipeac | integrante |
+| Henrique Del Rio Toffalini | 202602188694 | @4kToffa | integrante |
 | Marina Souza Lima | 2026xxxxx | @marinaslima | integrante |
 
 
